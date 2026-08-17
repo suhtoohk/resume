@@ -1,15 +1,17 @@
 {
   "name": "Su Pan Htoo Pyae Resume",
   "short_name": "Resume",
+  "description": "My digital resume application",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://via.placeholder.com/512",
+      "src": "https://via.placeholder.com/512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
