@@ -3,12 +3,12 @@
   "name": "My digital resume application",
   "icons": [
     {
-      "src": "icons/icon-192x192.png",
+      "src": "your-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icons/icon-512x512.png",
+      "src": "your-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
